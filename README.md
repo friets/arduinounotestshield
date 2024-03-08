@@ -1,10 +1,10 @@
 # arduinounotestshield
 functional test of arduino uno pins
 
-you can build this solderless
-via soldering
+you can build this solderless,
+via soldering of the standard shields
 
-or order your pcb
+or order your pcb,and assemble the smt/headers
 
 the hardware design is very simple, cheap and very convenient if you need to test your arduino uno
 
