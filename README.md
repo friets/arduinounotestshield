@@ -5,6 +5,7 @@ you can build this solderless,
 via soldering of the standard shields
 
 or order your pcb,and assemble the smt/headers
+1206 10K resistors you can order at A.E. for a few euro's, male 2.54 headers too
 
 the hardware design is very simple, cheap and very convenient if you need to test your arduino uno
 
