@@ -8,7 +8,7 @@ or order your pcb
 
 the hardware design is very simple, cheap and very convenient if you need to test your arduino uno
 
-i think my c64 assemblycode history is a bit eminent in the arduino sketch
+i think my commodore64 assemblycode history is a bit eminent in the arduino sketch
 
 unotestshieldprego script by Friets Koudijs/KumBaTechnologies
 to test the analogue and digital pins of the Arduino Uno
