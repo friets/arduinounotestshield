@@ -8,6 +8,8 @@ pinD2 and forward sends to the next pinD3
 which should return the HIGH or LOW
 analogPins are to be sending and receiving digital signals
 the pins are connected via a 10Kohm resistor to limit current
+
+be sure to replace this testsketch with another one afterwards (or blinksketch in examples)otherwise this software without the testshield will possibly wreck your arduino uno!!
 */
 
 byte incomingbyte;
