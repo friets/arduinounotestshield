@@ -2,7 +2,7 @@
 functional test of arduino uno pins
 
 you can build this solderless,
-via soldering of the standard shields
+via soldering or by using the standard shields
 
 or order your pcb,and assemble the smt/headers
 1206 10K resistors you can order at A.E. for a few euro's, male 2.54 headers too
@@ -19,6 +19,6 @@ if the serial works than they are working correctly
 pinD2 and forward sends to the next pinD3
 which should return the HIGH or LOW
 analogPins are to be sending and receiving digital signals
-the pins are connected via a 10Kohm resistor to limit current
+the pins are connected via a 10Kohm resistor to limit current for the MCU
 
-be sure to replace this testsketch with another one afterwards (or blinksketch in examples)otherwise this software without the testshield will possibly wreck your arduino uno!!
+be sure to replace this testsketch with another one afterwards (or blinksketch in examples) otherwise this software without the testshield will possibly wreck your arduino uno!!
